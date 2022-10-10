@@ -25,5 +25,7 @@ public class Car {
         return CarColour;
     }
 
-
+    public void setColour(String colour) {
+        this.CarColour = colour;
+    }
 }
